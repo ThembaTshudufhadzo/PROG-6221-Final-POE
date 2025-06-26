@@ -1,0 +1,13 @@
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\bin\Debug\Resources\240_F_1212527373_7UGNf8hJ3dLvyXR6AVXZLSQZhy5jnsfR.jpg
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\bin\Debug\Resources\ttsMP3.com_VoiceText_2025-4-10_13-7-50.wav
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.exe.config
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.exe
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\bin\Debug\CyberSecurityChatbotGUI.pdb
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.Form1.resources
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.Properties.Resources.resources
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.TaskAssistantForm.resources
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.exe
+C:\Users\lab_services_student\Desktop\CyberSecurityChatbotGUI\obj\Debug\CyberSecurityChatbotGUI.pdb
